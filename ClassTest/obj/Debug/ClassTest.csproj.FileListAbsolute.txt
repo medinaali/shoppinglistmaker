@@ -1,0 +1,16 @@
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassTest.dll
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassTest.pdb
+D:\Spring 2017\DevApp\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+D:\Spring 2017\DevApp\ClassTest\obj\Debug\ClassTest.dll
+D:\Spring 2017\DevApp\ClassTest\obj\Debug\ClassTest.pdb
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassAppBL.dll
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassAppDL.dll
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\DevApp.exe
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\Entities.dll
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassAppBL.pdb
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\ClassAppDL.pdb
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\DevApp.pdb
+D:\Spring 2017\DevApp\ClassTest\bin\Debug\Entities.pdb
+C:\Users\Medina Ali\Desktop\ShoppinglistApp\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+C:\Users\Medina Ali\Desktop\ShoppinglistApp\ClassTest\obj\Debug\ClassTest.dll
+C:\Users\Medina Ali\Desktop\ShoppinglistApp\ClassTest\obj\Debug\ClassTest.pdb

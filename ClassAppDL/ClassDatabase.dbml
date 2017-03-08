@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ClassDatabase" Class="ClassDatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-JITJPGK\SQLEXPRESS;Initial Catalog=ClassDatabase;Integrated Security=True" SettingsObjectName="ClassAppDL.Properties.Settings" SettingsPropertyName="ClassDatabaseConnectionString1" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.GetPerson" Method="GetPerson">
+    <ElementType Name="GetPersonResult">
+      <Column Name="PersonId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FullName" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ProductName" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Notes" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Purpose" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="ProductCategory" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ProductPrice" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.InsertPerson" Method="InsertPerson">
+    <Parameter Name="FullName" Parameter="fullName" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ProductName" Parameter="productName" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Notes" Parameter="notes" Type="System.String" DbType="NChar(50)" />
+    <Parameter Name="Purpose" Parameter="purpose" Type="System.String" DbType="NChar(20)" />
+    <Parameter Name="ProductCategory" Parameter="productCategory" Type="System.String" DbType="NChar(10)" />
+    <Parameter Name="ProductPrice" Parameter="productPrice" Type="System.String" DbType="NChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
